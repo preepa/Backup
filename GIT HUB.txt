@@ -31,3 +31,5 @@ git push =  to send to github
 git config --global user.name "preepa"
  git config --global user.email "preepa006@gmail.com"
 git config  user.name     - to check which user name
+
+g
